@@ -1,0 +1,8 @@
+#!/bin/bash
+
+clear
+
+echo "Starting Computer..."
+
+python3 boot.py
+
